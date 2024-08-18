@@ -1,1 +1,1 @@
-https://rogplay.live/admin/rest-apix/
+https://rogplay.live/admin/rest-api/
